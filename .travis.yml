@@ -32,6 +32,6 @@ after_success:
   - docker push 1386aje/udagram-frontend:v1
   - docker push 1386aje/udagram-reverseproxy:v1
 
-  - echo "-------------PUSHED TO DOCKER HUB WITHOUT NO ISSUES---------"
+  - echo "-------------FIREUP!---------"
 
 
